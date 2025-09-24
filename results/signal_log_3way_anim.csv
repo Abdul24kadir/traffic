@@ -1,0 +1,8 @@
+Phase,State,Duration(s),Timestamp
+Direction 3,GREEN,12,2025-06-15 14:43:37
+Direction 3,YELLOW,3,2025-06-15 14:43:49
+Direction 3,RED,5,2025-06-15 14:43:52
+Direction 1,GREEN,11,2025-06-15 14:43:57
+Direction 1,YELLOW,3,2025-06-15 14:44:08
+Direction 1,RED,5,2025-06-15 14:44:11
+Direction 2,GREEN,11,2025-06-15 14:44:16
